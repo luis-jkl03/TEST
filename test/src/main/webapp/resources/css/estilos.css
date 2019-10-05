@@ -1,0 +1,39 @@
+
+
+#divNom{
+	background: blue;
+/* 	font-size: 40px; */
+}
+
+#divTel{
+	background: fuchsia;
+/* 	font-size: 40px; */
+}
+
+#divDirec{
+	background: orange;
+/* 	font-size: 40px; */
+}
+
+.fuente{
+	font-size: 80px;
+}
+
+#divNom.fuente{
+	font-size: 50px;
+}
+
+body{
+	background: gray;
+}
+
+button[type=button]{
+/* 	font-size: 40px; */
+}
+
+div.enviar > button{
+	background-color: yellow;
+}
+
+
+
