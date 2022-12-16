@@ -23,7 +23,7 @@
 	</build>
 
 	<properties>
-		<spring.version>3.2.14.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<jackson.version>[2.9.10,)</jackson.version>
 	</properties>
 
